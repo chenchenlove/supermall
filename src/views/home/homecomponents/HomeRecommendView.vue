@@ -28,6 +28,7 @@ export default {
     font-size: 14px;
     padding: 10px 0 20px 0;
     border-bottom: 10px solid #eee;
+    background-color: white;
     &-item{
         flex: 1;
         img {
